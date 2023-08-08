@@ -98,7 +98,7 @@
         "lodash": "^4.17.21",
         "md5-file": "^4.0.0",
         "mustache": "^2.3.0",
-        "neo4j-driver": "^4.4.6",
+        "neo4j-driver": "^4.4.11",
         "prop-types": "^15.8.1",
         "react": "^16.13.1",
         "react-alert": "^7.0.3",
