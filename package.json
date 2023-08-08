@@ -111,7 +111,7 @@
         "react-photo-gallery": "^8.0.0",
         "react-transition-group": "^4.4.2",
         "sanitize-filename": "^1.6.3",
-        "semver": "^7.3.7",
+        "semver": "^7.5.4",
         "stream-chain": "^2.2.5",
         "stream-json": "^1.7.4",
         "uuid": "^8.3.2"
